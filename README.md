@@ -3,7 +3,7 @@ Audio and Midi for the Father John Misty 'SAP' Promo for I Love You Honey Bear:
 
 Note for note adaptation of the record using the most crude soundfont midi sounds. 
 
-TO-DOs - Bounce out Midi Files from session.
+TO-DOs - Bounce out Midi Files from Logic sessions.
 
 https://pitchfork.com/news/58239-father-john-misty-streams-lo-res-version-of-i-love-you-honeybear-via-fake-streaming-service/
 
